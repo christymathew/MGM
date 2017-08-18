@@ -640,8 +640,8 @@
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
-.ih-item.circle.effect5 .info h3 {
-  color: #fff;
+.ih-item.circle.effect5 .info .info-back h3 {
+  color: red;
   text-transform: uppercase;
   position: relative;
   letter-spacing: 2px;
@@ -654,8 +654,7 @@
 .ih-item.circle.effect5 .info p {
   color: #bbb;
   padding: 10px 5px;
-  font-style: italic;
-  margin: 0 30px;
+  font-style: italic;   margin: 0 30px;
   font-size: 12px;
   border-top: 1px solid rgba(255, 255, 255, 0.5);
 }
