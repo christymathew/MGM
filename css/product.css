@@ -97,16 +97,7 @@
 			padding-top:50px;
             padding-bottom:50px;
         }
-        .contact_us {
-        text-align:left;
-        background-color:black;
-        color:white;
-        }
-        .contact_us h3 {
-            font-size:36px;
-            text-align:center;
-            
-        }
+        
         .p_footer {
             background-color:black;
             height:50px;
@@ -129,11 +120,8 @@
         }
 
 
-        .contact_us h3 {
-            padding-top:50px;
-         margin-top:20px;
-         margin-bottom:20px;
-        }
+       
+
 
 .service  h3{
             font-size:36px;
@@ -149,14 +137,27 @@
         }
         .contact_us {
         text-align:left;
-        background-color:black;
+        background-color:black ;
         color:white;
         }
+
         .contact_us h3 {
             font-size:36px;
             text-align:center;
             
         }
+        .contact_us h3 {
+            padding-top:50px;
+         margin-top:0px;
+         margin-bottom:0px;
+        }
+         
+        #bb
+        {
+            background-color: black;
+        }
+
+  
         .p_footer {
             background-color:black;
             height:50px;
@@ -177,10 +178,5 @@
             margin-top:5px;
          padding-bottom:30px;
         }
-        .contact_us h3 {
-            padding-top:50px;
-         margin-top:20px;
-         margin-bottom:20px;
-        }
-  
+        
  
