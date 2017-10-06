@@ -77,9 +77,20 @@ a {
   display: inline-block;
   position: relative;
   text-align: center;
+  margin-bottom: 0px;
+}
+.cd-words-wrapper h5 {
+  display: inline-block;
+  font-style: initial;
+  position: relative;
+  margin-top: 60px;
+  margin-bottom: 0px;
+  left: 0;
+  top: 0;
 }
 .cd-words-wrapper b {
   display: inline-block;
+
   position: relative;
   white-space: pre-wrap;
   left: 0;
