@@ -81,14 +81,14 @@ a {
 .cd-words-wrapper h5 {
   display: inline-block;
   position: relative;
-  margin-top: 40px;
+  margin-top: 50px;
   margin-bottom: 0px;
   left: 0;
   top: 0;
 }
 .cd-words-wrapper b {
   display: inline-block;
-  
+
   font-style: normal;
   font-weight: bold;
   position: relative;
