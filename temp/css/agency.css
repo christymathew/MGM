@@ -26,7 +26,7 @@ h6 {
   text-transform: uppercase; }
 
 section {
-  padding: 100px 0; }
+  padding: 0px 0; }
   section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
@@ -124,13 +124,13 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover; }
   header.masthead .intro-text {
-    padding-top: 150px;
-    padding-bottom: 100px; }
+    padding-top: 50px;
+    padding-bottom: 0px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 22px;
       font-style: italic;
       line-height: 22px;
-      margin-bottom: 25px;
+      margin-bottom: 0px;
       font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     header.masthead .intro-text .intro-heading {
       font-size: 50px;
