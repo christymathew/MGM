@@ -1,7 +1,6 @@
 .ih-item {
   position: relative;
   align-content: center;
-  border-spacing: all;
   -webkit-transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
@@ -28,7 +27,6 @@
   width: 220px;
   height: 220px;
   border-radius: 50%;
-  
 }
 .ih-item.circle .img {
   position: relative;

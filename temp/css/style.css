@@ -789,7 +789,6 @@ xzoom
   perspective: 300px;
 }
 .cd-headline.zoom b {
-  font-size: 20px;
   opacity: 0;
 }
 .cd-headline.zoom b.is-visible {
