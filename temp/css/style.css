@@ -755,7 +755,7 @@ xclip
 -------------------------------- */
 .cd-headline.clip span {
   display: inline-block;
-  padding: .2em 0;
+  padding: .5em 0;
 }
 .cd-headline.clip .cd-words-wrapper {
   overflow: hidden;
@@ -789,6 +789,7 @@ xzoom
   perspective: 300px;
 }
 .cd-headline.zoom b {
+  font-size: 20px;
   opacity: 0;
 }
 .cd-headline.zoom b.is-visible {
