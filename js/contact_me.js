@@ -23,10 +23,10 @@ $(function() {
         url: "https://script.google.com/macros/s/AKfycbwTBby-V0zmo9nubOpnX9jqsBtJB43C2YXEj9_YPczlyGBNtKRB/exec",
         type: "POST",
         data: {
-          name: name,
-          phone: phone,
-          email: email,
-          message: message
+         name: name,
+         message: message, 
+         email: email,
+         phone: phone
         },
         cache: false,
         success: function() {
